@@ -1,0 +1,4 @@
+html {
+  font-size: responsive 10px 23px; /* the font size range */
+  font-range: 410px 1180px; /* the screen size range */
+}

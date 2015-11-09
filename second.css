@@ -1,0 +1,13 @@
+html {
+  font-size: calc(10px + 13 * ( (100vw - 410px) / 770)); /* the font size range */ /* the screen size range */
+}
+@media screen and (min-width: 1180px) {
+  html {
+    font-size: 23px
+  }
+}
+@media screen and (max-width: 410px) {
+  html {
+    font-size: 10px
+  }
+}
